@@ -31,9 +31,9 @@ pip install python-telegram-bot --upgrade
 2. نسخه‌ی مناسب سیستم‌عامل خود را دانلود و نصب کنید 
 (مثلاً Windows، macOS یا Linux).
 
-3. **نکته مهم:** 
+**نکته مهم:** 
 هنگام نصب در ویندوز حتماً گزینه‌ی
-`Add Python to PATH`
+<br>`Add Python to PATH`<br>
 را فعال کنید تا بتوانید از طریق CMD به راحتی دستور `python` را اجرا کنید.
 
 ---
@@ -44,7 +44,7 @@ pip install python-telegram-bot --upgrade
 
 ```bash
 python --version
-
+```
 
 مسیر دیتابیس‌های SQLite خود را در این بخش از کد تنظیم کنید:
 
