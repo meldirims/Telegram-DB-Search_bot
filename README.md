@@ -20,6 +20,32 @@
 ```bash
 pip install python-telegram-bot --upgrade
 ```
+
+### نصب پایتون (Python)
+
+برای نصب پایتون:
+
+1. به سایت رسمی پایتون برو:  
+   [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+2. نسخه‌ی مناسب سیستم‌عامل خود را دانلود و نصب کنید 
+(مثلاً Windows، macOS یا Linux).
+
+3. **نکته مهم:** 
+هنگام نصب در ویندوز حتماً گزینه‌ی
+`Add Python to PATH`
+را فعال کنید تا بتوانید از طریق CMD به راحتی دستور `python` را اجرا کنید.
+
+---
+
+### بررسی نصب در CMD
+
+برای اطمینان از نصب صحیح، در CMD این دستور را بزنید:
+
+```bash
+python --version
+
+
 مسیر دیتابیس‌های SQLite خود را در این بخش از کد تنظیم کنید:
 
 ```python
