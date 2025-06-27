@@ -15,6 +15,11 @@
 
 ## 🔧 Configuration
 
+### دستور نصب با pip در CMD
+
+```bash
+pip install python-telegram-bot --upgrade
+```
 مسیر دیتابیس‌های SQLite خود را در این بخش از کد تنظیم کنید:
 
 ```python
